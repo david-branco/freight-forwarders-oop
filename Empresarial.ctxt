@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Empresarial()
+comment1.params=num\ nome\ morada\ numcontrib
+comment1.target=Empresarial(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=i
+comment2.target=Empresarial(Empresarial)
+comment3.params=obj
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=Empresarial\ clone()
+numComments=6

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Encomendas()
+comment1.params=e
+comment1.target=Encomendas(Encomenda)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=Encomendas\ clone()
+comment2.params=encs
+comment2.target=Encomendas(Encomendas)
+comment3.params=e
+comment3.target=java.lang.Integer\ addEncomenda(Encomenda)
+comment4.params=i
+comment4.target=Encomenda\ removeEncomenda(java.lang.Integer)
+comment5.params=i
+comment5.target=boolean\ existeEncomenda(java.lang.Integer)
+comment6.params=
+comment6.target=int\ numEncomendas()
+comment7.params=i
+comment7.target=Encomenda\ getEncomenda(java.lang.Integer)
+comment8.params=
+comment8.target=int\ getNum()
+comment9.params=
+comment9.target=java.util.TreeMap\ getEncomendas()
+numComments=12

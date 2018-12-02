@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FurgaoNaoRefrigerado()
+comment1.params=matricula\ marca\ modelo\ custoManutencao\ capUtilCarga\ percCargaOcupada\ numID\ combustivel\ autonomia
+comment1.target=FurgaoNaoRefrigerado(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ int,\ java.lang.String,\ double)
+comment2.params=f
+comment2.target=FurgaoNaoRefrigerado(Furgao)
+comment3.params=obj
+comment3.target=boolean\ equals(java.lang.Object)
+comment3.text=m\u00E9todo\ equals()\ standard\ -\ recebe\ Object\ como\ par\u00E2metro
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=Representacao\ como\ texto
+comment5.params=
+comment5.target=FurgaoNaoRefrigerado\ clone()
+comment5.text=Copia\ de\ Furgao
+numComments=6
